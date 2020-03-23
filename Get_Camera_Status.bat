@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& '%~dp0Code\Get_Camera_Status.ps1'"

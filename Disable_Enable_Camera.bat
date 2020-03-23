@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& '%~dp0Code\Disable_Enable_Camera.ps1'"
